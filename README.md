@@ -17,8 +17,9 @@ Para poder encontrar los archivos que nombrare a posterior ingresar en la carpet
  - Felix Masera:
 
  # Super Usuario: 
-
-- cristian || coder12345
+ 
+felonmasera
+contraseña: coder123
 
  # Lenguajes utilizados:
  - HTML
