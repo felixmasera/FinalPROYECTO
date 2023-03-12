@@ -20,7 +20,7 @@ Para poder encontrar los archivos que nombrare a posterior ingresar en la carpet
  
  
  
- Para resumir cada uno hizo su parte y en lo estetico juntamos ideas y pensamientos para crear una estructura visualmente atractiva. Esperamos su devolucion anciosamente. 
+ Para resumir cada uno hizo su parte y en lo estetico juntamos ideas y pensamientos para crear una estructura visualmente atractiva y el menu hamburguesa fue idea de los tres tmb para saber que usuario estaba logeado. Esperamos su devolucion anciosamente. 
 Buen fin de semana cesar.
 
  # Super Usuario: 
